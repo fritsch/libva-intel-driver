@@ -1,4 +1,4 @@
-intel-vaapi-driver (1.7.0~kodi1-0~xenial) xenial; urgency=medium
+intel-vaapi-driver (1.7.0-2~kodi1-0~xenial) xenial; urgency=medium
 
   * Rebase onto 1.7.0
   * Cherry-Pick Color fixes
