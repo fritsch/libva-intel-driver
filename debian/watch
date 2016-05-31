@@ -1,0 +1,3 @@
+version=3
+opts="filenamemangle=s/libva-intel-driver/intel-vaapi-driver/" \
+http://www.freedesktop.org/software/vaapi/releases/libva-intel-driver/libva-intel-driver-(\d.*)\.(?:tgz|tbz2|tar\.(?:gz|bz2|xz))
